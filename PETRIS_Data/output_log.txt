@@ -1,0 +1,29 @@
+Initialize engine version: 5.4.5p5 (8c4c93a90556)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f0a)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Documentos\CosasDeUnity\PetrisClom\PETRIS_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Documentos\CosasDeUnity\PetrisClom\PETRIS_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Documentos\CosasDeUnity\PetrisClom\PETRIS_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Documentos\CosasDeUnity\PetrisClom\PETRIS_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Documentos\CosasDeUnity\PetrisClom\PETRIS_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Documentos\CosasDeUnity\PetrisClom\PETRIS_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Documentos\CosasDeUnity\PetrisClom\PETRIS_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Documentos\CosasDeUnity\PetrisClom\PETRIS_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.237 seconds
+Platform assembly: E:\Documentos\CosasDeUnity\PetrisClom\PETRIS_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Documentos\CosasDeUnity\PetrisClom\PETRIS_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.725600 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 4940 -> priority: 1 
+  Thread -> id: 4938 -> priority: 1 
+  Thread -> id: 493c -> priority: 1 
